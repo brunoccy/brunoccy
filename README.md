@@ -1,5 +1,8 @@
 ### Hi, I'm Bruno Chen 👋
 
+I'm an iOS developer and I write articles too:
+https://brunochenchih.medium.com/
+
 [![linkedin](https://user-images.githubusercontent.com/58227596/120900571-cb23e800-c60b-11eb-908f-2f5c1e55e53a.png)](https://www.linkedin.com/in/bruno-chen-23bbb9186/)
 
 <!--
